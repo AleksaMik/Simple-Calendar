@@ -1,5 +1,7 @@
 # Simple-Calendar
 
+![SCR-20220714-jl5](https://user-images.githubusercontent.com/105229148/179064279-29b925cf-3d46-4268-a763-8fa7804ee19b.png)
+
 ## Deployment 
 
 Application deployed at live URL.
